@@ -4,6 +4,8 @@ Jiacheng Ye (jiacheng.uiuc@gmail.com)
 This repo provides detailed process of calculating weather regime. The weather regimes can be regarded as an important source of 
 S2S predictability. It can also be viewed as local attractor of which phase space is smaller than the whole space. 
 
+We would appreciate it a lot if you agree to cite our paper if you decide to borrowe some code here :)
+
 I should mention that there are numerous articles debating the existence of weather regime. However, by using the concept of weather
 regime, the S2S prediction has been improved significantly. Here, I applied the most popular definition, which is called EOF-Kmeans method.
 
@@ -14,7 +16,7 @@ regime, the S2S prediction has been improved significantly. Here, I applied the 
 
 There are a lot of work awaiting to be completed...
 
-This work is supervised by Zhuo Wang at Illinois. 
+This work is supervised by Zhuo Wang at Illinois (many thanks). 
 
 # Attention on weather regime calculation:
 Feel free to reach me if you want sample data. 

@@ -8,9 +8,9 @@ I should mention that there are numerous articles debating the existence of weat
 regime, the S2S prediction has been improved significantly. Here, I applied the most popular definition, which is called EOF-Kmeans method.
 
 # Attentions:  
-# From my superficial understandings, none of these definitions are achieved purely from physcial thinking. I personally do not fully support the 
-# EOF-Kmeans and geopotential height contour method because we are using the our assumed conclusion to get our desired result... 
-# (Like from engineer's world view. No offense, I'm also an engineer, or a less qualified engineer:))
+ From my superficial understandings, none of these definitions are achieved purely from physcial thinking. I personally do not fully support the 
+ EOF-Kmeans and geopotential height contour method because we are using the our assumed conclusion to get our desired result... 
+ (Like from engineer's world view. No offense, I'm also an engineer, or a less qualified engineer:))
 
 There are a lot of work awaiting to be completed...
 

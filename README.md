@@ -11,9 +11,9 @@ regime, the S2S prediction has been improved significantly. Here, I applied the 
 
 # Attention on weather regime definition:  
  From my superficial understandings, none of these definitions are achieved purely from physcial thinking. I personally do not fully support the 
- EOF-Kmeans and geopotential height contour method because we are using preassumed conclusion to get our desired result... 
- (Like from engineer's world view. No offense, I'm also an engineer, or a less qualified engineer:))
-
+ EOF-Kmeans and geopotential height contour method because we are using preassumed conclusion to get our desired result... It is weird but that's
+ how we currently do it.
+ 
 There are a lot of work awaiting to be completed...
 
 This work is supervised by Zhuo Wang at Illinois (many thanks). 

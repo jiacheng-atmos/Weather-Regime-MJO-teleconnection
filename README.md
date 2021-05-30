@@ -1,4 +1,4 @@
-# Weather Regime-MJO-teleconnection (For related references, feel free to reach me to get it)
+# Weather Regime-MJO-teleconnection 
 Jiacheng Ye (jiacheng.uiuc@gmail.com)
 
 This repository includes the scripts for weather regime calculation. Weather regimes can be regarded as an important source of S2S predictability. They can be viewed as local attractors whose phase space is smaller than the whole system's space (e.g., Kimoto and Ghil 1993).
